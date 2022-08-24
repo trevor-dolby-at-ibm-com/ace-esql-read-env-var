@@ -25,7 +25,7 @@ tdolby@IBM-PF3K066L:~/workspace/WMB/src$ mqsicreateworkdir /tmp/ace-esql-read-en
 mqsicreateworkdir: Copying sample server.config.yaml to work directory
 1 file(s) copied.
 Successful command completion.
-tdolby@IBM-PF3K066L:~/workspace/WMB/src$ mqsibar -c -w /tmp/ace-esql-read-env-var-work-dir -a /mnt/c/Users/684084897/git/ace-esql-read-env-var/ReadEnvVarApplication/ReadEnvVarApplication.bar
+tdolby@IBM-PF3K066L:~/workspace/WMB/src$ mqsibar -c -w /tmp/ace-esql-read-env-var-work-dir -a /home/tdolby/git/ace-esql-read-env-var/ReadEnvVarApplication/ReadEnvVarApplication.bar
 Generating runtime objects: '/tmp/ace-esql-read-env-var-work-dir/run' ...
 
 BIP8071I: Successful command completion.
